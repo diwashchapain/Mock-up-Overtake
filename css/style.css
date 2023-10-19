@@ -1,0 +1,216 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.logo {
+    width: 130px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #055999;
+    padding: 8px 16px;
+    margin: 0px 4px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    background-color: #055999;
+    color: white;
+}
+.navbar-expand-lg .navbar-nav .dropdown-item:hover {
+    background-color: #055999;
+    color: white;
+}
+
+
+.navbar-nav .nav-link.active {
+    background-color: #055999;
+    color: white;
+}
+.carousel-caption{
+    text-align: left;
+    bottom: 80px;
+}
+
+.carousel-caption h5{
+    font-size: 30px;
+}
+.carousel-caption p{
+    font-size: 20px;
+}
+
+.service h2 {
+    font-size: 36px;
+    padding: 12px 0px;
+
+}
+
+.service p {
+    color: #666;
+}
+
+
+.box {
+    background: #efefef;
+    border: 1px solid #efefef;
+
+}
+.box h2 {
+   font-size: 22px;
+   color: #333;
+
+}
+.box p{
+   font-size: 14px;
+   color: #656565;
+
+}
+
+.box:hover {
+    background: #FFF;
+    border: 1px solid #055999;
+}
+
+.box .button {
+    color: #fff;
+    padding: 8px 20px;
+    background-color: #055999;
+    border: 1px solid #055999;
+}
+
+.box .button:hover {
+    background-color: transparent;
+    color: #055999;
+}
+
+.box i{
+    font-size: 66px;
+}
+
+.our-team-section {
+    background: #055999;
+    color: #FFF;
+}
+
+.our-team-section h2 {
+    font-size: 26px;
+}
+
+.our-team-section p {
+    font-size: 14px;
+}
+
+.scroll {
+    font-size: 18px;
+}
+
+.scroll:hover {
+    font-size: 18px;
+}
+
+.clients-logo{
+    filter: grayscale(100%);
+}
+.clients-logo:hover{
+    filter: grayscale(0%);
+}
+
+.footer{
+    background-color: #1B1B1B;
+}
+
+.footer h3{
+    color: #FFF;
+    font-size: 14px;
+}
+.footer p, li a{
+    color: #949494;
+    font-size: 14px;
+}
+.footer li{
+    padding: 3px 0px;
+}
+
+.footer li a:hover{
+    color: #fff;
+}
+
+footer{
+    background: #191919;
+    font-size: 12px;
+    color: #fff;
+}
+footer i{
+    margin: 0px 4px;
+    color: #fff;
+}
+
+
+/* .........About Company CSS...... */
+
+
+.about-us{
+    background: linear-gradient(to right, #055999, #4587D3);
+    color: #fff;
+}
+.about-img{
+    height: 120px;
+    right: 0px;
+}
+
+.contain h2{
+    font-size: 26px;
+}
+.contain p{
+    color: #666;
+}
+.feature h3{
+    font-size: 20px;
+}
+.feature p{
+    color: #666;
+}
+.feature i{
+    font-size: 32px;
+}
+
+.extra-feature h2{
+    font-size: 24px;
+}
+.extra-feature p{
+    font-size: 14px;
+    color: #333;
+}
+.extra-feature summary, details p{
+    color: #333;
+    padding: 12px 20px;
+    background: #ebe9e9;
+    margin: 2px 0px;
+    
+}
+.extra-feature summary:hover{
+   text-decoration: underline;
+    
+}
+.extra-feature .our-expertise p{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.team-profile h2{
+font-size: 24px;
+    
+}
+.team-profile h4{
+font-size: 18px;
+    
+}
+.team-profile p{
+font-size: 14px;
+color: #666;
+    
+}
